@@ -1,0 +1,57 @@
+### Deliverables
+
+#### 1. Document detailing the setup process
+
+**Title: Setting Up My Developer Environment**
+
+**1. Operating System:**
+- Chose Windows 11
+- Downloaded from: [Windows 11 Download](https://www.microsoft.com/software-download/windows11)
+- Installed following the on-screen instructions
+
+**2. IDE:**
+- Selected Visual Studio Code
+- Downloaded from: [VS Code Download](https://code.visualstudio.com/Download)
+- Installed and configured
+
+**3. Version Control System:**
+- Installed Git from: [Git Download](https://git-scm.com/downloads)
+- Created a GitHub account: [GitHub](https://github.com)
+- Initialized a Git repository and made the first commit
+  ```bash
+  git init
+  git add .
+  git commit -m "Initial commit"
+  ```
+
+**4. Programming Languages:**
+- Installed Python from: [Python Download](http://www.python.org)
+- Verified installation: `python --version`
+
+**5. Package Managers:**
+- Verified pip installation: `pip --version`
+
+**6. Database:**
+- Installed MySQL from: [MySQL Download](https://dev.mysql.com/downloads/windows/installer/5.7.html)
+
+**7. Virtualization:**
+- Installed Docker from: [Docker Download](https://www.docker.com/products/docker-desktop)
+
+**8. Extensions:**
+- Installed Python, GitLens, and Docker extensions in VS Code
+
+#### 2. GitHub Repository
+
+- [Sample Project Repository](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Dexwel)
+
+#### 3. Reflection on Challenges
+
+**Challenges:**
+- Encountered issues with Python path configuration. 
+
+**Solutions:**
+- Solved by adding Python to system environment variables.
+
+### Sample Screenshot
+
+![VS Code with Extensions](https://code.visualstudio.com/assets/docs/introvideos/overview/hero-screenshot.png)
